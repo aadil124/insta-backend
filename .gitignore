@@ -1,0 +1,6 @@
+/insta-frontend/node_modules
+/insta-frontend/.env
+/insta-frontend/package-lock.json
+/insta-backend/package-lock.json
+/insta-backend/node_modules
+/insta-backend/.env
